@@ -1,7 +1,4 @@
-pyttsx3
 streamlit
-ipykernel
-jupyter
-discord.py 
 gTTS
-subprocess
+pygame
+pyttsx3
